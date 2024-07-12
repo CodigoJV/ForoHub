@@ -13,16 +13,16 @@ ForoHub es una API REST desarrollada con Spring Boot que proporciona el backend 
     * **Actualizar:** Permite editar el contenido de un tópico existente.
     * **Eliminar:** Permite borrar tópicos.
 * **Validaciones:** Implementa validaciones para asegurar la integridad de los datos y cumplir con las reglas de negocio.
-* **Base de Datos Relacional:** Utiliza una base de datos relacional (especificar cuál, por ejemplo, MySQL, PostgreSQL) para almacenar la información de manera persistente.
+* **Base de Datos Relacional:** Utiliza una base de datos relacional MySQL para almacenar la información de manera persistente.
 * **Autenticación y Autorización:** Incluye un sistema de autenticación y autorización para proteger el acceso a los recursos y controlar las acciones que los usuarios pueden realizar.
 
 ## Tecnologías Utilizadas
 
 * **Lenguaje:** Java
 * **Framework:** Spring Boot
-* **Base de Datos:** (Especificar la base de datos utilizada)
+* **Base de Datos:** MySQL
 * **Herramientas:**
-    * Maven (o Gradle) para la gestión de dependencias.
+    * Maven para la gestión de dependencias.
     * (Opcional) Swagger para la documentación de la API.
 
 ## Instalación y Uso
