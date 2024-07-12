@@ -29,4 +29,4 @@ ForoHub es una API REST desarrollada con Spring Boot que proporciona el backend 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [se quitó una URL no válida]
+   git clone https://github.com/CodigoJV/ForoHub.git
